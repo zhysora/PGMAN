@@ -1,6 +1,8 @@
-# PanSharpening_torch
+# PGMAN
 
-a a series of pan-sharpening methods implemented in PyTorch1.1
+code for "PGMAN: An Unsupervised Generative Multi-adversarial Network for Pan-sharpening"
+
+implemented in PyTorch1.1
 
 python lib see in requirement.txt
 
