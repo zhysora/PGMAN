@@ -1,0 +1,2 @@
+python=3.6
+gdal 'poppler<0.62' pytorch=1.1.0 opencv scipy scikit-image
