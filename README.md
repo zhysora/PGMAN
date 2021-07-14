@@ -14,15 +14,15 @@ code：u041
 
 ### Quick Start
 
-First you nead download the raw data, and then build the dataset. 
+First download the raw data, and then build the dataset. 
 ```
 python data/handle_raw.py
 python data/gen_dataset.py
 ```
-You need to modify the corresponding path in the code before excuting it.
+It's suggested to check the corresponding path in the codes and make some modifications according to yourself before executing it.
 
-The main pipeline is in the 'main.py', for quick start, you can just run the 'run.py'. 
+The main pipeline is in the 'main.py', for a quick start, you can just run the 'run.py'. 
 ```
 python run.py
 ```
-You need to modify the corresponding parameters in the 'run.py' before excuting it.
+It's suggested to check the corresponding params in 'run.py' and make some modifications according to yourself before executing it.
