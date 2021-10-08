@@ -8,8 +8,8 @@ python lib see in requirement.txt
 
 ### Raw Data
 
-link：https://pan.baidu.com/s/190MywbwIlvONA_9-6-KMtQ 
-code：u041 
+link: https://pan.baidu.com/s/190MywbwIlvONA_9-6-KMtQ 
+code: u041 
 
 link: https://pan.baidu.com/s/1dRrMH6KcFnkGuYZMCcJooA 
 code: odg0
